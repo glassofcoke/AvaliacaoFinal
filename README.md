@@ -4,6 +4,6 @@
 André De Paula Pessoa Braga
 João Marcos Cassiano da Costa
 Michel Cavalcanti Moura
-Natheskia Isadora Brigido Nunes
+Natheskia Isadora Brigido Batista Nunes
 Nayane Rodrigues Santos
 
