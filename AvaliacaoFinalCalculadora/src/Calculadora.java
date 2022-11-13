@@ -14,4 +14,12 @@ public class Calculadora {
     public double multiplicaçao(double numA, double numB) {
         return numA * numB;
     }
+
+    public double raizQuadrada(double numA) {
+        return Math.sqrt(numA);
+    }
+
+    public double exponencial(double numA,double numB) {
+        return Math.pow(numA,numB);
+    }
 }
