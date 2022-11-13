@@ -22,4 +22,13 @@ public class Calculadora {
     public double exponencial(double numA,double numB) {
         return Math.pow(numA,numB);
     }
+    public double piso(double numA){
+
+        return Math.floor(numA);
+    }
+    public double teto(double numB){
+
+        return Math.ceil(numB);
+    }
+
 }
