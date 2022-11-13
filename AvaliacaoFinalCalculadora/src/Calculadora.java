@@ -6,4 +6,12 @@ public class Calculadora {
     public double subtraçao(double numA, double numB) {
         return numA - numB;
     }
+
+    public double divisao(double numA, double numB) {
+        return numA / numB;
+    }
+
+    public double multiplicaçao(double numA, double numB) {
+        return numA * numB;
+    }
 }
