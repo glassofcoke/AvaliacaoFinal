@@ -30,5 +30,10 @@ public class Calculadora {
 
         return Math.ceil(numB);
     }
-
+    public double media(double numA, double numB, double numC) {
+        return (numA+numB+numC)/3;
+    }
+    public double porcentagem(double numero, double porcentagem) {
+        return(numero*porcentagem)/100;
+    }
 }
